@@ -1,21 +1,16 @@
 #######################################
-# Syntax Coloring Map For avdweb_SAMDtimer
+# Syntax Coloring Map For avdweb_AnalogReadFast
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-avdweb_SAMDtimer	KEYWORD1
-
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-attachInterrupt	KEYWORD2
-enableTimer	KEYWORD2
-enableInterrupt	KEYWORD2
-setPulseWidth	KEYWORD2
+analogReadFast  KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
