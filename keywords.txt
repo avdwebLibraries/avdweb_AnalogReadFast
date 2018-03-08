@@ -10,7 +10,7 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-analogReadFast  KEYWORD2
+analogReadFast	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
