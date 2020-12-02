@@ -6,4 +6,4 @@ The new function analogReadFast() takes just 21us.
 - AVR boards: Arduino Uno, Nano, Mega, Leonardo, etc.
 - SAMD21 boards: Arduino Zero, SAM 15x15, etc. 
 
-http://www.avdweb.nl/arduino/libraries/fast-10-bit-adc.html
+https://www.avdweb.nl/arduino/adc-dac/fast-10-bit-adc
