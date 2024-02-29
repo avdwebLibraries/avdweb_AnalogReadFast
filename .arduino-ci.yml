@@ -27,3 +27,4 @@ compile:
     - rpipico
   libraries:
     - "Streaming"
+    - "Stopwatch"
