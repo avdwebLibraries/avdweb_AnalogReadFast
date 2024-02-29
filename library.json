@@ -1,0 +1,23 @@
+{
+  "name": "avdweb_AnalogReadFast",
+  "keywords": "",
+  "description": "Fast analogRead 10/12 bit ADC for the Arduino Zero and Uno.",
+  "authors":
+  [
+    {
+      "name": "Albert van Dalen",
+      "email": "a@maxun.cc",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/avandalen/avdweb_AnalogReadFast"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": "avdweb_AnalogReadFast.h"
+}
