@@ -21,10 +21,11 @@ compile:
     # - zero
     # - leonardo
     - m4
-    - esp32
-    - esp8266
+    # - esp32
+    # - esp8266
     # - mega2560
-    - rpipico
+    # - rpipico
   libraries:
     - "Streaming"
     - "Stopwatch"
+    - "RunningAverage"
