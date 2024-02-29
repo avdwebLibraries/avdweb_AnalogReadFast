@@ -27,5 +27,5 @@ compile:
     # - rpipico
   libraries:
     - "Streaming"
-    - "Stopwatch"
+    # - "Stopwatch"
     - "RunningAverage"
