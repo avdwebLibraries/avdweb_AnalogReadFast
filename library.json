@@ -1,0 +1,32 @@
+{
+  "name": "avdweb_AnalogReadFast",
+  "version": "1.0.1",
+  "description": "Fast analogRead 10/12 bit ADC for the Arduino Zero and Uno",
+  "keywords": "Debug, ADC, test",
+  "authors": [
+    {
+      "name": "Albert van Dalen",
+      "url": "https://github.com/avandalen"
+    },
+    {
+      "name": "Abhijit Bose (aka. Boseji)",
+      "url": "https://github.com/boseji",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avdwebLibraries/avdweb_AnalogReadFast.git"
+  },
+  "homepage": "https://www.avdweb.nl/arduino/adc-dac/fast-10-bit-adc",
+  "export": {
+    "exclude": [
+      "extras",
+      "docs"
+    ]
+  },
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "*",
+  "examples": "examples/*/*/*.ino"
+}

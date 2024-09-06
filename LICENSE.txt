@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2019 Albert van Dalen
+Copyright (C) 2019-2024 Albert van Dalen <http://www.avdweb.nl>
+Copyright (C) 2024 Abhijit Bose (aka. Boseji)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

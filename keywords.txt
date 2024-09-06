@@ -5,6 +5,8 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
+AnalogReadFast	KEYWORD1
+avdweb_AnalogReadFast.h	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
