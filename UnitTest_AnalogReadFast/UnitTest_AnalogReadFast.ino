@@ -1,4 +1,3 @@
-
 // Unit test program for analogReadFast
 // http://www.avdweb.nl/arduino/libraries/fast-10-bit-adc.html
 
