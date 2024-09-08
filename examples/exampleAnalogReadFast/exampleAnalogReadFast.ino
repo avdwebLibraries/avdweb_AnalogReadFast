@@ -10,7 +10,7 @@ analogReadResolution(12);
 
 void setup(void)
 { Serial.begin(9600);
-  //analogRead(adcPin); // first analogRead is wrong
+ int adc = analogRead(adcPin); // first analogRead may be wrong
 }
 
 void loop(void)
